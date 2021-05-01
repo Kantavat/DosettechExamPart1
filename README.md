@@ -1,7 +1,7 @@
 # DosettechExamPart1
  AngularWebApplication for apply font end developer
 <br>
-<br>To run those projects
+<br>To run these projects
 <br>Those apps create with angular 11 ,jquery and bootstrap.
 <br>!! You must install jquery and bootstrap and run with angular without them you can't run propperly.!!
 <br>
